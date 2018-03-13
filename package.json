@@ -1,0 +1,37 @@
+{
+  "name": "ch.ti8m.documenthandler",
+  "version": "0.2.2",
+  "private": true,
+  "description": "A phonegap plugin to handle documents (f.e. PDFs) given by URL. ",
+  "cordova": {
+    "id": "ch.ti8m.documenthandler",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyeFitU/DocumentHandler.git"
+  },
+  "keywords": [
+    "cordova",
+    "Documents",
+    "PDF",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/EyeFitU/DocumentHandler/issues"
+  },
+  "homepage": "https://github.com/EyeFitU/DocumentHandler#readme"
+}
